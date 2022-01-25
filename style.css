@@ -1,0 +1,54 @@
+*{
+    justify-content: center;
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    line-height: 2;
+    color: hsl(0, 0%, 95%);
+
+}
+
+img{
+    padding: 0%;
+    line-height: 2;
+}
+
+p{
+    font-family: Lexend Deca;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.5;
+}
+
+.bttn{
+    padding-top: 30px;
+}
+
+.container{
+    padding: 9% 0;
+}
+
+.col{
+    padding: 60px 40px 80px 50px ;
+}
+
+#sedan{
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 3%;
+    border-bottom-left-radius: 3%;
+}
+
+#suv{
+    background-color: hsl(184, 100%, 22%);
+}
+
+#lux{
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
